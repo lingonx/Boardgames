@@ -1,0 +1,12 @@
+obj/Debug/netcoreapp2.0/TicTacToe.AssemblyInfo.cs
+obj/Debug/netcoreapp2.0/TicTacToe.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp2.0/TicTacToe.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp2.0/TicTacToe.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.0/TicTacToe.csprojAssemblyReference.cache
+obj/Debug/netcoreapp2.0/TicTacToe.dll
+obj/Debug/netcoreapp2.0/TicTacToe.pdb
+.vscode/launch.json
+obj/project.assets.json
+obj/TicTacToe.csproj.nuget.g.props
+obj/TicTacToe.csproj.nuget.g.targets
+TicTacToe.csproj
