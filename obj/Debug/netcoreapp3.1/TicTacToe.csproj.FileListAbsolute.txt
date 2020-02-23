@@ -1,0 +1,11 @@
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.dll
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\obj\Debug\netcoreapp3.1\TicTacToe.dll
+c:\Users\Olivia\Documents\VSCodeWorkspace\BoardGames\obj\Debug\netcoreapp3.1\TicTacToe.pdb

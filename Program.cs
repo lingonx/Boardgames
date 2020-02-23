@@ -7,8 +7,9 @@ namespace Games
     {
         static void Main(string[] args)
         {
-            TicTacToeGame g = new TicTacToeGame();
-            Console.WriteLine("Välkommen till " + g.Name());
+            TicTacToeGame ticTacToe = new TicTacToeGame();
+            Console.WriteLine("Game to play: " + ticTacToe.Name());
+            Console.WriteLine("y/n");
 
         }
     }

@@ -675,11 +675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\root\\Documents\\VisualStudioCode\\Boardgames\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\root\\Documents\\VisualStudioCode\\Boardgames\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\root\\Documents\\VisualStudioCode\\Boardgames\\obj\\",
+      "projectPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\Olivia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\Olivia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\Olivia\\Documents\\VSCodeWorkspace\\BoardGames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Olivia\\AppData\\Roaming\\NuGet\\NuGet.Config",
