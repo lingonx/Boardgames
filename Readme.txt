@@ -9,9 +9,9 @@ ________________________________________________________________________________
 1. Filöversikt
 - Klasserna
     - Program (main)
-    - Board (superklass)
+    - Board (Brädet)
       - Square (Ärver från Board)
-    - Player (superklass (ev))
+    - Player 
     - TicTacToe (Reglerna för spelet)
 ____________________________________________________________________________________
 2. Beskrivning av klasser:
