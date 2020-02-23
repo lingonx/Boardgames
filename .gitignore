@@ -10,3 +10,9 @@ obj/project.assets.json
 obj/TicTacToe.csproj.nuget.g.props
 obj/TicTacToe.csproj.nuget.g.targets
 TicTacToe.csproj
+bin/Debug/netcoreapp3.1/TicTacToe.dll
+bin/Debug/netcoreapp3.1/TicTacToe.pdb
+obj/Debug/netcoreapp3.1/TicTacToe.assets.cache
+obj/Debug/netcoreapp3.1/TicTacToe.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/TicTacToe.dll
+obj/Debug/netcoreapp3.1/TicTacToe.pdb
