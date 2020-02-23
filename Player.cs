@@ -1,10 +1,10 @@
 using System;
 
-namespace TicTacToe
+namespace NamespacePlayer
 {
     class Player
     {
-        /*A player keeps track of the type of player (X or O) 
+        /*OLD:A player keeps track of the type of player (X or O) 
         and the name of the player (if you want to display that).*/
         private string name;
         private char type;      //X or O

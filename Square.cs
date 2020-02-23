@@ -1,10 +1,11 @@
 using System;
 
-namespace TicTacToe
+namespace NamespaceSquare
 {
     class Square
     {
-        /*A square can have 3 states: empty, X, or O.*/
+        /*OLD:A square can have 3 states: empty, X, or O.*/
+        /*TA BORT DENNA KLASS FÖR DEN ÄR KASS*/
         private char state; //empty, X, or O
         public char State
         {
